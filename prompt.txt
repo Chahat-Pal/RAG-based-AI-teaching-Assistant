@@ -1,0 +1,4 @@
+ so basically this is my video in which I've given Introduction about myself , so these are the timestamps (including start time of the video chunks and the end time) and the "text" of the video 
+{"start":{"5":24.72,"15":64.56,"6":27.92},"end":{"5":27.92,"15":66.04,"6":36.2},"text":{"5":" That's exactly why I named this channel Chahat to learn.","15":" Welcome to Chahat to learn.","6":" Chahat means desire and I have a strong desire to learn and explore things and grow in every"}}
+and 
+the user asked this question related to the video  chunks what is the purpose of this channel? and why it is named chahat to learn ?, you have tell the anwser of this question which is given in the video so read the embeddings and identify the correct answer and then tell him the correct answera nd also time stamp odf the video where the answer is given, if user ask a question not related to the video chunks then tell him that please ask question only from the video
